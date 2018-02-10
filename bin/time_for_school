@@ -23,3 +23,5 @@ puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' fr
  jim.last_name = "last"
  whatever = avi.teach
  jim.learn(whatever)
+
+ steve.learn(whatever)
